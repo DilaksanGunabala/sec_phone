@@ -1,4 +1,5 @@
-import { useState, useEffect, useRef, useCallback } from "react";
+import { useState, useEffect, useCallback } from "react";
+import React from "react";
 
 // ─── DESIGN TOKENS ───
 const T = {
